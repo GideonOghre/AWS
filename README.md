@@ -1,5 +1,6 @@
 <h1 align="left">Hi, my name is Gideon Oghre</h1>
 <h3 align="left">I am a Cloud Computing Engineer.</h3>
+
 I am a cloud engineer that is a graduate of the University of Essex who studied Bsc Computer Science. I have hands-on experience with Azure and GCP but specialise in AWS which involves acquiring the AWS cloud practitioner and solutions architect certifications and completing multiple AWS projects. I have experience in deploying and managing infrastructure using Terraform and Jenkins. Proficient in AWS services such as CloudWatch, S3, Route 53, VPC, EC2, IAM Users & Roles, Lambda and serverless architecture. Skilled in using Docker and Linux 
 
 In addition to my technical skills, I am also well-versed in Agile methodologies and use tools such as Jira to manage and track tasks and projects. I understand the importance of clear and concise documentation and use Confluence to document processes and procedures. This helps ensure that all team members have a clear understanding of what needs to be done, how it needs to be done, and when it needs to be done.
